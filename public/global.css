@@ -1,0 +1,6 @@
+@import "tailwindcss/preflight";
+/* Use preflight instead of @tailwind base */
+@tailwind utilities;
+/* Only use utilities now in v4 */
+
+/* You can add custom styles below if needed */
